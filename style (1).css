@@ -1,0 +1,56 @@
+body{
+    text-align: center;
+}
+
+#HOME {
+    color: #FFFFFF;
+    bottom: 0;
+    background: linear-gradient(#9c8df1 0%, #ae27a3 100%);
+    display: table;
+    width: 100%;
+    height: 100%;
+    z-index: 9;
+}
+
+.my_nav_bar{
+    position: sticky;
+    top: 0px;
+    z-index: 999999;
+}
+
+.line {
+    height: 6px;
+    background-color: #000;
+    width: 70px;
+    margin: 8px auto;
+}
+
+#about {
+    color: #FFFFFF;
+    bottom: 0;
+    background: linear-gradient(#f18d8d 0%, #acae27 100%);
+    display: table;
+    width: 100%;
+    height: 100%;
+    z-index: 9;
+}
+
+#videos {
+    color: #FFFFFF;
+    bottom: 0;
+    background: linear-gradient(#8df1ba 0%, #277cae 100%);
+    display: table;
+    width: 100%;
+    height: 100%;
+    z-index: 9;
+}
+
+#contact {
+    color: #FFFFFF;
+    bottom: 0;
+    background: linear-gradient(#f1e78d 0%, #ae2727 100%);
+    display: table;
+    width: 100%;
+    height: 100%;
+    z-index: 9;
+}
